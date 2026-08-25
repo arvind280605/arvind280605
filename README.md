@@ -98,3 +98,7 @@ Geographic Information Systems through academic and personal projects.
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
   </a>
 </p>
+
+<p align="center">
+  <i>💡 Learn • ⚙️ Build • 🌐 Explore • 🚀 Grow</i>
+</p>
