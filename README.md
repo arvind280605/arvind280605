@@ -71,14 +71,7 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind280605&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind280605&layout=compact&hide_border=true&theme=tokyonight" width="40%" />
-</p>
-
----
 
 ## 🐍 Contribution Graph
 
