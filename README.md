@@ -67,13 +67,7 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## 📚 Currently Learning
 
-<p align="center">
-  Python • SQL • Machine Learning • Deep Learning • Computer Vision • GIS • Data Visualization
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -89,9 +83,9 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## ✨
+
 
 <p align="center">
-  <i>Learn • Build • Explore • Improve</i>
+  <i>Learn • Build • Explore • Improve </i>
 </p>
 
