@@ -43,6 +43,16 @@ Geographic Information Systems through academic and personal projects.
   Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
 </p>
 
+### 🧠 Generative AI & LLM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+</p>
+
+<p align="center">
+  RAG • LLM • LangChain • FAISS • Embeddings • Prompt Engineering
+</p>
+
 ### 👁️ Computer Vision
 
 <p align="center">
@@ -64,13 +74,6 @@ Geographic Information Systems through academic and personal projects.
 <p align="center">
   Power BI • Matplotlib
 </p>
-
----
-
-
-
----
-
 ## 🧊 GitHub 3D Contributions
 
 <p align="center">
