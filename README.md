@@ -87,24 +87,20 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-
-<a href="https://github.com/arvind280605" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="50"
-       height="50"
-       alt="GitHub" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/arvind-d-62568b2ab/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="50"
-       height="50"
-       alt="LinkedIn" />
-</a>
-
+  <a href="https://github.com/arvind280605">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="50"
+         height="50"
+         alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="50"
+         height="50"
+         alt="LinkedIn" />
+  </a>
 </p>
