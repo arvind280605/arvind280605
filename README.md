@@ -100,5 +100,5 @@ Geographic Information Systems through academic and personal projects.
 </p>
 
 <p align="center">
-  <i>💡 Learn • ⚙️ Build • 🌐 Explore • 🚀 Grow</i>
+  <i> Learn •  Build •  Explore • Grow</i>
 </p>
