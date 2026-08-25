@@ -40,85 +40,49 @@ information systems.
 
 ---
 
-## ⚙️ Technology Stack
+## ⚙️ Tech Stack
 
 ### 💻 Programming & Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode&perline=8" />
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=8" />
 </p>
 
 <p align="center">
-  <b>Machine Learning • Deep Learning • Predictive Modelling • Data Analysis</b>
+  Pandas • NumPy • Scikit-learn
 </p>
 
 ### 👁️ Computer Vision
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ByteTrack-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/InsightFace-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=opencv&perline=8" />
 </p>
 
-### 🗺️ Geographic Information Systems
+<p align="center">
+  YOLOv8 • ByteTrack • InsightFace • FAISS
+</p>
+
+### 🗺️ GIS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E7D32?style=for-the-badge&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS%20Online-1976D2?style=for-the-badge&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIS-Geographic%20Information%20Systems-455A64?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+</p>
+
+<p align="center">
+  ArcGIS Pro • ArcGIS Online • Geographic Information Systems
 </p>
 
 ### 📊 Data Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  Power BI • Matplotlib
 </p>
-
----
-
-# 🧩 My Development Journey
-
-<p align="center">
-
-<b>DATA</b>
-&nbsp;→&nbsp;
-<b>ANALYSIS</b>
-&nbsp;→&nbsp;
-<b>MACHINE LEARNING</b>
-&nbsp;→&nbsp;
-<b>DEEP LEARNING</b>
-&nbsp;→&nbsp;
-<b>COMPUTER VISION</b>
-&nbsp;→&nbsp;
-<b>GIS</b>
-
-</p>
-
-<p align="center">
-  Exploring how data and intelligent systems can be used to solve practical problems.
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -132,36 +96,6 @@ information systems.
 
 <p align="center">
   <img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvind280605&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-# 🚀 What I Build
-
-<p align="center">
-
-📊 Data-driven applications
-&nbsp; • &nbsp;
-🤖 Machine Learning solutions
-&nbsp; • &nbsp;
-🧠 Deep Learning models
-
-<br><br>
-
-👁️ Computer Vision systems
-&nbsp; • &nbsp;
-🗺️ GIS applications
-&nbsp; • &nbsp;
-📈 Data analytics and visualization
-
 </p>
 
 ---
