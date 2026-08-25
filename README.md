@@ -61,8 +61,70 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## 📊 GitHub Overview
+---
+
+## 🎯 2026 Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind280605&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+  Data Science • Machine Learning • Computer Vision • GIS
+</p>
+
+<p align="center">
+  Learning, building, and improving through practical projects and continuous exploration.
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+<p align="center">
+  📊 Data Science & Analytics
+  &nbsp; • &nbsp;
+  🤖 Machine Learning
+  &nbsp; • &nbsp;
+  👁️ Computer Vision
+  &nbsp; • &nbsp;
+  🗺️ Geographic Information Systems
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  Python • SQL • Machine Learning • Computer Vision • GIS • Data Visualization
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  Technical certifications in Data, AI, GIS and related technologies.
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arvind%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/arvind280605">
+    <img src="https://img.shields.io/badge/GitHub-arvind280605-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨
+
+<p align="center">
+  <i>Learn • Build • Explore • Improve</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
 </p>
