@@ -71,7 +71,13 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
+## 🧊 GitHub 3D Contributions
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
+       width="100%"
+       alt="GitHub 3D Contribution Graph" />
+</p>
 
 ## 🐍 Contribution Graph
 
