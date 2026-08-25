@@ -40,7 +40,7 @@ Geographic Information Systems through academic and personal projects.
 </p>
 
 <p align="center">
-  Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
+  Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • Deep Learning
 </p>
 
 ### 👁️ Computer Vision
