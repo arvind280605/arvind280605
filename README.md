@@ -69,23 +69,43 @@ Geographic Information Systems through academic and personal projects.
 
 
 
-## 🌐 Connect With Me
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arvind%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/arvind280605">
-    <img src="https://img.shields.io/badge/GitHub-arvind280605-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arvind280605&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind280605&layout=compact&hide_border=true&theme=tokyonight" width="40%" />
 </p>
 
 ---
 
-
+## 🐍 Contribution Graph
 
 <p align="center">
-  <i>Learn • Build • Explore • Improve </i>
+  <img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/arvind280605">
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Learn • Build • Explore • Improve</i>
+</p>
