@@ -81,54 +81,12 @@ computer vision, data analysis and geographic information systems.
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind280605&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
-
 ---
 
-# 🧩 My Development Journey
+# 📊 GitHub Contributions
 
 <p align="center">
-
-<b>DATA</b>
-&nbsp; → &nbsp;
-<b>ANALYSIS</b>
-&nbsp; → &nbsp;
-<b>MACHINE LEARNING</b>
-&nbsp; → &nbsp;
-<b>DEEP LEARNING</b>
-&nbsp; → &nbsp;
-<b>COMPUTER VISION</b>
-&nbsp; → &nbsp;
-<b>GIS</b>
-
-</p>
-
-<p align="center">
-  Exploring how data and intelligent systems can be used to solve practical problems.
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arvind280605&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind280605&layout=compact&hide_border=true&theme=tokyonight" width="41%" />
-
-</p>
-
----
-
-# 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arvind280605/arvind280605/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -136,55 +94,47 @@ computer vision, data analysis and geographic information systems.
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arvind280605&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=arvind280605&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# 🚀 What I Build
+# 🚀 Development Journey
 
 <p align="center">
-
-📊 Data-driven applications  
-<br>
-🤖 Machine Learning solutions  
-<br>
-🧠 Deep Learning models  
-<br>
-👁️ Computer Vision systems  
-<br>
-🗺️ GIS-based applications  
-<br>
-📈 Data visualization and analytics
-
+  <b>Data</b>
+  &nbsp;→&nbsp;
+  <b>Analysis</b>
+  &nbsp;→&nbsp;
+  <b>Machine Learning</b>
+  &nbsp;→&nbsp;
+  <b>Deep Learning</b>
+  &nbsp;→&nbsp;
+  <b>Computer Vision</b>
+  &nbsp;→&nbsp;
+  <b>GIS</b>
 </p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arvind%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/arvind-d-62568b2ab/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/arvind280605">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/arvind280605">
+    <img src="https://img.shields.io/badge/GitHub-arvind280605-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  <b>Learn • Build • Experiment • Improve</b>
+</p>
 
-<b>Learn • Build • Experiment • Improve</b>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arvind280605&style=flat-square&color=36BCF7" alt="Profile Views" />
-
+<p align="center">
+  Thanks for visiting my profile! 🚀
 </p>
