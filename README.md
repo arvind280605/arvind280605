@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arvind D</h1>
 
-<!--
-**arvind280605/arvind280605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Decision & Computing Science Student • Data Science • ML • GIS
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/arvind280605">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Decision+%26+Computing+Science+Student;Data+Science+%7C+Machine+Learning;Computer+Vision+%7C+GIS;Building+Practical+Projects+with+Python+%26+SQL" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a Decision and Computing Science student interested in
+Data Science, Machine Learning, GIS and Computer Vision.
+
+I enjoy working with data, building machine learning models,
+and developing practical applications using Python and SQL.
+
+Currently exploring Machine Learning, Computer Vision and
+Geographic Information Systems through academic and personal projects.
