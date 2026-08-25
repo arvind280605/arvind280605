@@ -74,7 +74,7 @@ Geographic Information Systems through academic and personal projects.
 <p align="center">
   Power BI • Matplotlib
 </p>
-## 🧊 GitHub 3D Contributions
+ 🧊 GitHub 3D Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg"
