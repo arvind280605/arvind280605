@@ -50,7 +50,7 @@ Geographic Information Systems through academic and personal projects.
 </p>
 
 <p align="center">
-  RAG • LLM • LangChain • FAISS • Embeddings • Prompt Engineering
+  RAG • LLM • LangChain • FAISS • Embeddings
 </p>
 
 ### 👁️ Computer Vision
