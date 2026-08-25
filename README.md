@@ -22,3 +22,35 @@ and developing practical applications using Python and SQL.
 
 Currently exploring Machine Learning, Computer Vision and
 Geographic Information Systems through academic and personal projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode&perline=8" />
+</p>
+
+### 🤖 Machine Learning & Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv&perline=8" />
+</p>
+
+<p align="center">
+  Pandas • NumPy • Scikit-learn • YOLOv8 • ByteTrack • InsightFace • FAISS
+</p>
+
+### 🗺️ GIS
+
+<p align="center">
+  ArcGIS Pro • ArcGIS Online • Geographic Information Systems (GIS)
+</p>
+
+### 📊 Data Visualization
+
+<p align="center">
+  Power BI • Matplotlib
+</p>
