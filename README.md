@@ -50,11 +50,11 @@ computer vision, data analysis and geographic information systems.
 ### 🤖 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=8" />
 </p>
 
 <p align="center">
-  Pandas • NumPy • Scikit-learn • Deep Learning
+  Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch • Deep Learning
 </p>
 
 ### 👁️ Computer Vision
