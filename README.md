@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arvind D</h1>
 
 <h3 align="center">
-Decision & Computing Science Student • Data Science • ML • GIS
+Decision & Computing Science Student • Data Science • ML • Deep Learning • GIS
 </h3>
 
 <p align="center">
   <a href="https://github.com/arvind280605">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Decision+%26+Computing+Science+Student;Data+Science+%7C+Machine+Learning;Computer+Vision+%7C+GIS;Building+Practical+Projects+with+Python+%26+SQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Decision+%26+Computing+Science+Student;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+GIS;Building+Practical+Projects+with+Python+%26+SQL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,12 +15,12 @@ Decision & Computing Science Student • Data Science • ML • GIS
 ## 👨‍💻 About Me
 
 I'm a Decision and Computing Science student interested in
-Data Science, Machine Learning, GIS and Computer Vision.
+Data Science, Machine Learning, Deep Learning, GIS and Computer Vision.
 
-I enjoy working with data, building machine learning models,
-and developing practical applications using Python and SQL.
+I enjoy working with data, building machine learning and deep learning
+models, and developing practical applications using Python and SQL.
 
-Currently exploring Machine Learning, Computer Vision and
+Currently exploring Machine Learning, Deep Learning, Computer Vision and
 Geographic Information Systems through academic and personal projects.
 
 ---
@@ -33,14 +33,24 @@ Geographic Information Systems through academic and personal projects.
   <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,git,github,vscode&perline=8" />
 </p>
 
-### 🤖 Machine Learning & Computer Vision
+### 🤖 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=8" />
 </p>
 
 <p align="center">
-  Pandas • NumPy • Scikit-learn • YOLOv8 • ByteTrack • InsightFace • FAISS
+  Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
+</p>
+
+### 👁️ Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv&perline=8" />
+</p>
+
+<p align="center">
+  YOLOv8 • ByteTrack • InsightFace • FAISS • OpenCV
 </p>
 
 ### 🗺️ GIS
@@ -57,50 +67,10 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
----
-
----
-
----
-
-## 🎯 2026 Focus
-
-<p align="center">
-  Data Science • Machine Learning • Computer Vision • GIS
-</p>
-
-<p align="center">
-  Learning, building, and improving through practical projects and continuous exploration.
-</p>
-
----
-
-## 🧠 Areas of Interest
-
-<p align="center">
-  📊 Data Science & Analytics
-  &nbsp; • &nbsp;
-  🤖 Machine Learning
-  &nbsp; • &nbsp;
-  👁️ Computer Vision
-  &nbsp; • &nbsp;
-  🗺️ Geographic Information Systems
-</p>
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
-  Python • SQL • Machine Learning • Computer Vision • GIS • Data Visualization
-</p>
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-  Technical certifications in Data, AI, GIS and related technologies.
+  Python • SQL • Machine Learning • Deep Learning • Computer Vision • GIS • Data Visualization
 </p>
 
 ---
