@@ -57,8 +57,14 @@ Geographic Information Systems through academic and personal projects.
 
 ---
 
-## 📈 GitHub Activity
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind280605&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arvind280605&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvind280605&theme=tokyonight&hide_border=true" />
 </p>
