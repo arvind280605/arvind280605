@@ -54,3 +54,11 @@ Geographic Information Systems through academic and personal projects.
 <p align="center">
   Power BI • Matplotlib
 </p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind280605&theme=tokyo-night&hide_border=true&area=true" />
+</p>
